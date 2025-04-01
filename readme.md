@@ -41,6 +41,17 @@ cd safrochain
 ignite chain build
 ```
 
+After this step, a `safrochaind` is created in the go bin directory. You can run `Safrochain` by executing the following command:
+
+```bash
+safrochaind start
+```
+
+
+
+## Connect to the Safrochain network
+
+To connect to the Safrochain network, you need to set up your local node. Follow these steps:
 
 
 ## Acknowledgements
